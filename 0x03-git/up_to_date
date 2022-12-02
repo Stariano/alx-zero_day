@@ -1,0 +1,7 @@
+git commit -m ""
+git push
+git checkout 
+git init
+git merge
+git add .
+
