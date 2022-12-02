@@ -4,4 +4,4 @@ git checkout
 git init
 git merge
 git add .
-
+git pull
